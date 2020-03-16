@@ -1,0 +1,12 @@
+ Volume in drive C is jana chandra
+ Volume Serial Number is 4E49-3555
+
+ Directory of C:\Users\DELL\Desktop\java file
+
+16-03-2020  12:20 PM    <DIR>          .
+16-03-2020  12:20 PM    <DIR>          ..
+16-03-2020  12:19 PM                 0 file.txt
+08-03-2020  04:29 PM               481 git file.txt
+16-03-2020  12:20 PM                 0 text.txt
+               3 File(s)            481 bytes
+               2 Dir(s)  45,520,564,224 bytes free
